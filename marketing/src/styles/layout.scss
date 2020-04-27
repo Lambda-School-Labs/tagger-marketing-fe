@@ -1,0 +1,151 @@
+* {
+  //   border: 2px solid red;
+  padding: 3px;
+}
+
+// a {
+//   text-decoration: none;
+//   margin-left: 2%;
+//   margin-top: 2%;
+//   color: white;
+//   font-size: 1.8rem;
+//   font-family: "Roboto", sans-serif;
+//   align-items: center;
+//   margin-bottom: 20%;
+// }
+// nav a {
+//    border: 1px solid red;
+//    height: 30px;
+// }
+nav {
+  position: fixed;
+  width: 99%;
+  background-color: $header;
+  height: 7vh;
+  z-index: 999;
+  display: flex;
+  justify-content: flex-end;
+  padding: 0px;
+  padding-right: 30px;
+  color: white;
+  font-size: 1.5rem;
+}
+
+#about {
+  display: block;
+  height: 55vh;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  background-color: #40c4ff;
+
+  .text {
+    width: 50%;
+    text-align: center;
+    line-height: 3.5vh;
+    font-family: "Roboto";
+    color: black;
+    margin: 2rem;
+    padding-top: 30px;
+
+    h2 {
+      font-size: 4rem;
+    }
+
+    p {
+      font-size: 1.6rem;
+      font-weight: 200;
+    }
+  }
+
+  img {
+    border-radius: 5%;
+    margin: 1rem;
+  }
+}
+
+#function {
+  display: block;
+  display: flex;
+  height: 60vh;
+  align-items: center;
+  justify-content: space-around;
+  background-color: #b3e5fc;
+
+  h2 {
+    font-size: 4rem;
+  }
+
+  .text2 {
+    width: 40%;
+    text-align: center;
+    line-height: 6vh;
+    font-family: "Roboto";
+    color: black;
+    margin: 2rem;
+    font-size: 1.6rem;
+    font-weight: 200;
+  }
+
+  img {
+    border-radius: 20%;
+    margin: 3rem;
+  }
+
+  .function-child1 {
+    display: flex;
+    width: 50%;
+    color: black;
+  }
+
+  .function-child2 {
+    display: flex;
+    width: 50%;
+
+    .tagger-img {
+      border-radius: 5%;
+    }
+  }
+
+  .imgs-child1 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    padding: 50px, 50px;
+  }
+
+  .icon {
+    margin-right: 110px;
+  }
+}
+
+#team {
+  display: block;
+  display: flex;
+  height: 60vh;
+  align-items: center;
+  flex-direction: column;
+  background-color: #e1f5fe;
+
+  .team-header {
+    font-size: 2rem;
+    font-weight: 200;
+    color: black;
+  }
+
+  .team-pictures {
+    display: flex;
+    margin: 20px;
+  }
+
+  .card {
+    margin: 70px;
+  }
+  h3 {
+    font-size: 1rem;
+  }
+
+  p {
+    font-size: 1rem;
+  }
+}
