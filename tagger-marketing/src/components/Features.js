@@ -14,7 +14,7 @@ export default function Features() {
         </p>
         <p>That's 65,700 emails per year.</p>
         <p>
-          That number only goes up the more emails you have due to your work,{" "}
+          That number only goes up the more emails you have due to your work,
           <br />
           your websites, entrepreneurial ventures, and not all emails needed to
           be deleted right away, <br />

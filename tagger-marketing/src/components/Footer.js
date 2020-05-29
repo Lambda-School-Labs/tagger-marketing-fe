@@ -6,8 +6,10 @@ export default function Footer() {
   //render the component
   return (
     <div class="wrapper">
-      <div>
-        <h1>Footer</h1>
+      <div class="footer-container">
+        <div>
+          <h1>Footer</h1>
+        </div>
       </div>
     </div>
   );

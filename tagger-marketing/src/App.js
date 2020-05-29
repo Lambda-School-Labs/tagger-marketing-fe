@@ -12,8 +12,9 @@ function App() {
     <div class="wrapper">
       <Header />
       <About />
-      <Features />
+      <div class='footer-background'>
       <Footer />
+      </div>
     </div>
   );
 }
