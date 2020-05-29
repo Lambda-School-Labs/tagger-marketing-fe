@@ -8,7 +8,7 @@ export default function Footer() {
     <div class="wrapper">
       <div class="footer-container">
         <div>
-          <h1>Footer</h1>
+          {/* <h1>Footer</h1> */}
         </div>
       </div>
     </div>

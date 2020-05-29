@@ -1,5 +1,6 @@
 //import dependencies
 import React from "react";
+import tagger from '../img/tagger_ss.PNG';
 
 //set Component Function
 export default function Header() {
@@ -23,7 +24,7 @@ export default function Header() {
                 The average person has two email accounts, and recieves between
                 90-100 emails per day.
               </p>
-              <p>That's 65,700 emails per year.</p>
+              <p class='heavy'>That's 65,700 emails per year.</p>
               <p>
                 That number only goes up the more emails you have due to your
                 work, your websites, entrepreneurial ventures, and not all
@@ -38,7 +39,9 @@ export default function Header() {
               </p>
             </div>
           </div>
-          <div class="image-container">Images</div>
+          <div class="image-container">
+            <img src={tagger} alt='tagger' class='tagger-img' />
+          </div>
         </div>
       </div>
     </div>
