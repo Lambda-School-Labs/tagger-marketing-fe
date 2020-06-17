@@ -8,7 +8,7 @@ export default function Footer() {
     <div class="wrapper">
       <div class="footer-container">
         <div>
-          {/* <h1>Footer</h1> */}
+          <p class= "footer">Copyright 2020 Lambda School</p>
         </div>
       </div>
     </div>

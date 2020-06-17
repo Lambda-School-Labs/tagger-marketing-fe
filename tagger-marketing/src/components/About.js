@@ -18,11 +18,11 @@ export default function About() {
               </h3>
             </div>
             <div class="about-form-container">
-              <p>Intelligent Search: no need for specific keywords or phrases</p><br/>
-              <p>Relationship Analytics: Tagger learns about the relationship between you and your contacts to better prioritize your inbox search.</p><br/>
-              <p>Automated Tags: Machine Learning will automatically apply tags to better organize your emails and messages.</p><br/>
-              <p>Localized Environment: Your emails and credentials are stored locally on your computer for added privacy and security.</p><br/>
-              <p>Offline Capability: Access your email, compose new messages, and que up to be sent the moment you access the internet without prompting.</p><br/>
+              <h3 class="heavy">Intelligent Search:</h3><p>No need for a specific keyword and phrase.</p><br/>
+              <h3 class="heavy">Relationship Analytics:</h3><p> Tagger learns about the relationship between you and your contacts to better prioritize your inbox search.</p><br/>
+              <h3 class="heavy">Automated Tags:</h3><p>Machine Learning will automatically apply tags to better organize your emails and messages.</p><br/>
+              <h3 class="heavy">Localized Environment:</h3><p> Your emails and credentials are stored locally on your computer for added privacy and security.</p><br/>
+              <h3 class="heavy">Offline Capability:</h3><p> Access your email, compose new messages, and que up to be sent the moment you access the internet without prompting.</p><br/>
             </div>
           </div>
           <div class="about-image-container">

@@ -9,13 +9,14 @@ import Footer from "./components/Footer";
 
 function App() {
   return (
+    <div class="body">
     <div class="wrapper">
       <Header />
       <About />
-      <div class='footer-background'>
+      {/* <div class='footer-background'> */}
       <Footer />
       </div>
-    </div>
+     </div>
   );
 }
 
