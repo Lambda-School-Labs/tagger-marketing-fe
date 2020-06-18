@@ -32,7 +32,7 @@ export default function Header() {
                 That number only goes up the more emails you have due to your
                 work, your websites, entrepreneurial ventures, and not all
                 emails needed to be deleted right away, and not all emails are
-                readily available through the traditional search system
+                readily available through the traditional search system.
               </p>
               <p>
                 Tagger removes the need to remember specific keywords by

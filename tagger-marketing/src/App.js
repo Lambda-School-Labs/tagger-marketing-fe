@@ -6,6 +6,7 @@ import About from "./components/About";
 import Features from './components/Features';
 import Header from "./components/Header";
 import Footer from "./components/Footer";
+import AboutSection from "./components/AboutSection"
 
 function App() {
   return (
@@ -13,7 +14,7 @@ function App() {
     <div class="wrapper">
       <Header />
       <About />
-      {/* <div class='footer-background'> */}
+      <AboutSection />
       <Footer />
       </div>
      </div>
