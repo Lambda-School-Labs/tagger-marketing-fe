@@ -43,7 +43,7 @@ export default function AboutSection() {
         </div>
     </div>
     <div class= "Christopher">
-        <h3 class="h3">DS Developer</h3>
+        <h3 class="h3">DS Software Engineer</h3>
         <img src= {Chris} alt= " A picture of Christopher"/>
         <p>Christopher Filkins</p>
         <div class= "icon">
@@ -54,7 +54,7 @@ export default function AboutSection() {
     </div>
     <div class = "parent2">
     <div class = "Monica">
-        <h3 class="h3">DS Developer</h3>
+        <h3 class="h3">DS Software Engineer</h3>
         <img src= {Monica} alt = "A picture of Monica"/>
         <p>Monica Bustamente</p>
         <div class= "icon">
@@ -63,7 +63,7 @@ export default function AboutSection() {
         </div>
     </div>
     <div class= "Brandon">
-        <h3 class="h3">DS Developer</h3>
+        <h3 class="h3">DS Software Engineer</h3>
         <img src = {Brandon} alt= "A picture of Brandon"/>
         <p>Brandon Mulas</p>
         <div class= "icon">
@@ -72,7 +72,7 @@ export default function AboutSection() {
         </div>
     </div>
     <div class= "Jack">
-        <h3 class="h3">DS Developer</h3>
+        <h3 class="h3">DS Software Engineer</h3>
         <img src= {Jack} alt= " A picture of Jack"/>
         <p>Jack Lindberg</p>
         <div class= "icon">
