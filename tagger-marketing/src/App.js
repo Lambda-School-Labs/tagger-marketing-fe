@@ -10,8 +10,8 @@ import AboutSection from "./components/AboutSection"
 
 function App() {
   return (
-    <div class="body">
-    <div class="wrapper">
+    <div className="body">
+    <div className="wrapper">
       <Header />
       <About />
       <AboutSection />

@@ -57,7 +57,7 @@ export default function AboutSection() {
         <h3 className="h3">DS Software Engineer</h3>
         <img src= {Monica} alt = "A picture of Monica"/>
         <p>Monica Bustamente</p>
-        <div class= "icon">
+        <div className= "icon">
         <a href="https://github.com/Moly-malibu" target="_blank"><i className="fa fa-github" aria-hidden="true"></i></a>
         <a href="https://www.linkedin.com/in/monica-bustamante-b2ba3781/" target="_blank"><i className="fa fa-linkedin-square" aria-hidden="true"></i></a>
         </div>
