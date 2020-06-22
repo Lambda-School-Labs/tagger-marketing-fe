@@ -13,7 +13,7 @@ export default function Header() {
         <div class="title">
           <h1>TaggerEmail</h1>
         </div>
-        <button class="heavy" onClick={() => window.open("https://www.dropbox.com/s/flpyjqoycxtq09l/Tagger%20Setup%201.1.0.exe?dl=0")}>App Download</button>
+        <button class="heavy" onClick={() => window.open("https://www.dropbox.com/s/ye5l5974q8ynm3x/Tagger%20Setup%201.1.1.exe?dl=1")}>App Download</button>
         <div class="head-content-container">
           <div class="register-container">
             <div class="tagline">
