@@ -5,10 +5,10 @@ import React from "react";
 export default function Footer() {
   //render the component
   return (
-    <div class="wrapper">
-      <div class="footer-container">
+    <div className="wrapper">
+      <div className="footer-container">
         <div>
-          <p class= "footer">Copyright 2020 Lambda School</p>
+          <p className= "footer">Copyright 2020 Lambda School</p>
         </div>
       </div>
     </div>

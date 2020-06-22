@@ -5,7 +5,7 @@ import React from "react";
 export default function Features() {
   //render the component
   return (
-    <div class="wrapper">
+    <div className="wrapper">
       <div>
         <h1></h1>
         <p>
